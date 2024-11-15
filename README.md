@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **C#,(dot)Net,Quasar and all the basic at freeCodeCamp**
 
 - 💬 Ask me about **MsSQL or PL/SQL**
-
 - ⚡ Fun fact **dota is life, dota is love**
+- My <a href="https://www.figma.com/proto/LGirgWqVK8hLbgyXjv9TJr/SpectraLite-V2-Mockup?node-id=0-1&t=oNSm3jlGjzbivIMV-1">PowerApps</a> mockup project 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
