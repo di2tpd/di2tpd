@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Didit Praditya Darmawan</h1>
 
 <p><img align="center" src="https://media1.tenor.com/images/fe3f4efb456c04214e078ccd3167037c/tenor.gif?itemid=15174545"></p>
-- 🌱 I’m currently learning **C#,(dot)Net,Quasar and all the basic at freeCodeCamp**
+- 🌱 I’m currently using **C#,(dot)Net,Quasar, Angular on my project**
 
 - 💬 Ask me about **MsSQL or PL/SQL**
 - ⚡ Fun fact **dota is life, dota is love**
